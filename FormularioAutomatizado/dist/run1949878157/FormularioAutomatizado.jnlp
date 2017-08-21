@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="FormularioAutomatizado.jnlp">
+  <information>
+    <title>FormularioAutomatizado</title>
+    <vendor>cisne</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="FormularioAutomatizado.jar" size="18262" download="eager" />
+    <jar href="lib/commons-lang3-3.4-javadoc.jar" size="1093607" download="eager" />
+    <jar href="lib/commons-lang3-3.4.jar" size="434678" download="eager" />
+    <jar href="lib/xstream-1.4.4.jar" size="483453" download="eager" />
+    <jar href="lib/xstream-benchmark-1.4.4.jar" size="220196" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="FormularioAutomatizado" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="formularioautomatizado.FormularioAutomatizado"  name="FormularioAutomatizado" />
+  <update check="always"/>
+</jnlp>

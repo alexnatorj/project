@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lista_pessoas>
+    <pessoa id="1">
+        <data_nascimento>12/03/1987</data_nascimento>
+        <nome>Alexandre</nome>
+        <filhos>Renan</filhos>
+        <filhos>Nicolas</filhos>
+        <obito>false</obito>
+    </pessoa>
+    <pessoa id="2">
+        <data_nascimento>12/03/1981</data_nascimento>
+        <nome>Alex</nome>
+        <filhos>Fe</filhos>
+        <filhos>Nanda</filhos>
+        <obito>false</obito>
+    </pessoa>
+    <pessoa id="3">
+        <data_nascimento>12/03/1982</data_nascimento>
+        <nome>andre</nome>
+        <filhos>Emily</filhos>
+        <filhos>Bruno</filhos>
+        <obito>false</obito>
+    </pessoa>
+    <pessoa id="4">
+        <data_nascimento>12/03/1983</data_nascimento>
+        <nome>Renato</nome>
+        <filhos>Carlos</filhos>
+        <filhos>Junior</filhos>
+        <obito>false</obito>
+    </pessoa>
+    <pessoa id="5">
+        <data_nascimento>12/03/1984</data_nascimento>
+        <nome>Fabio</nome>
+        <filhos>Rodrigo</filhos>
+        <filhos>Davi</filhos>
+        <obito>false</obito>
+    </pessoa>
+    <pessoa id="6">
+        <data_nascimento>12/03/1985</data_nascimento>
+        <nome>Jonata</nome>
+        <filhos>Paulo</filhos>
+        <filhos>Miguel</filhos>
+        <obito>false</obito>
+    </pessoa>
+</lista_pessoas>

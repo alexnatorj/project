@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/FormularioAutomatizado.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-lang3-3.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/xstream-1.4.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/xstream-benchmark-1.4.4.jar"/>
+	<classpathentry kind="lib" path="dist/run150691269/FormularioAutomatizado.jar"/>
+	<classpathentry kind="lib" path="dist/run150691269/lib/commons-lang3-3.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="dist/run150691269/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="dist/run150691269/lib/xstream-1.4.4.jar"/>
+	<classpathentry kind="lib" path="dist/run150691269/lib/xstream-benchmark-1.4.4.jar"/>
+	<classpathentry kind="lib" path="dist/run1949878157/FormularioAutomatizado.jar"/>
+	<classpathentry kind="lib" path="dist/run1949878157/lib/commons-lang3-3.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="dist/run1949878157/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="dist/run1949878157/lib/xstream-1.4.4.jar"/>
+	<classpathentry kind="lib" path="dist/run1949878157/lib/xstream-benchmark-1.4.4.jar"/>
+	<classpathentry kind="lib" path="dist/run1951052616/FormularioAutomatizado.jar"/>
+	<classpathentry kind="lib" path="dist/run1951052616/lib/commons-lang3-3.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="dist/run1951052616/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="dist/run1951052616/lib/xstream-1.4.4.jar"/>
+	<classpathentry kind="lib" path="dist/run1951052616/lib/xstream-benchmark-1.4.4.jar"/>
+	<classpathentry kind="lib" path="dist/run443624339/FormularioAutomatizado.jar"/>
+	<classpathentry kind="lib" path="dist/run443624339/lib/commons-lang3-3.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="dist/run443624339/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="dist/run443624339/lib/xstream-1.4.4.jar"/>
+	<classpathentry kind="lib" path="dist/run443624339/lib/xstream-benchmark-1.4.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
